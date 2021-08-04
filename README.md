@@ -60,7 +60,7 @@
 
   ## Questions
 
-  If you have any questions on this repo, please contact brianemunoz@outlook.com.
+  If you have any questions on this repo, please contact me [here](brianemunoz@outlook.com).
 
   ## GitHub
 
