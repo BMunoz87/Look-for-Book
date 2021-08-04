@@ -1,7 +1,7 @@
 {
-  "name": "googlebooks-app",
+  "name": "look-for-book",
   "version": "1.0.0",
-  "description": "",
+  "description": "A program to look for books.",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMunoz87/Look-for-Book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BMunoz87/Look-for-Book/issues"
+  },
+  "homepage": "https://github.com/BMunoz87/Look-for-Book#readme"
 }
